@@ -1,4 +1,4 @@
-👋 Hey there! I'm Ayhan, a passionate AI enthusiast, security developer, and problem-solver. With a sharp focus on web security and AI innovation, I aim to create tools and systems that not only protect but also empower businesses and individuals. 🚀
+👋 Hey there! I'm Alan, a passionate AI enthusiast, security developer, and problem-solver. With a sharp focus on web security and AI innovation, I aim to create tools and systems that not only protect but also empower businesses and individuals. 🚀
 
 🛡️ What I Do:
 
